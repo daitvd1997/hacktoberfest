@@ -16667,3 +16667,9 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+
+#### Name: [Trinh Dai](https://github.com/daitvd1997)
+- Place: Ha Noi, VietNam
+- Bio: Software Developer, Student at FPT University
+- GitHub: [](https://github.com/daitvd1997)
